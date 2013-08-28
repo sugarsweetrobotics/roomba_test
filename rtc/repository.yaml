@@ -1,6 +1,6 @@
 JoystickToVelocity: {description: '', git: 'https://github.com/sugarsweetrobotics/JoystickToVelocity.git',
   hash: 5519172fc9a694c1a7dedf33c82b0b27bac4c70b}
 RoombaRTC: {description: '', git: 'https://github.com/sugarsweetrobotics/RoombaRTC.git',
-  hash: 36530d60b325e0da6c77122d9a59a4b7bf45fe41}
+  hash: e7ee6ca8e767c25d66eebefa27379e17fb98a670}
 VirtualJoystick: {description: '', git: 'https://github.com/sugarsweetrobotics/VirtualJoystick.git',
   hash: e6f888d26256c7b300078eb73fa6ce0ac162f9a4}
